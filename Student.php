@@ -11,7 +11,7 @@
  *
  * @author ZhouJ
  */
-class student {
+class Student {
     function __construct() {
     $this->surname = '';
     $this->first_name = '';
